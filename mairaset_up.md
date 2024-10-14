@@ -22,3 +22,10 @@ Install latest transformers
 ```shell
 pip install git+https://github.com/huggingface/transformers.git@main
 ```
+
+Install kernel
+```shell
+conda install ipykernel
+python3 -m ipykernel install --user --name Maira2 --display-name "Maira2"
+```
+

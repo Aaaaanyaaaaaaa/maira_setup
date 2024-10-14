@@ -5,11 +5,12 @@ conda config --add channels conda-forge
 ```
 --
 ```shell
-jovyan@ostorozhno-zlaya-sobaka-0:~$ conda config --add channels nodefaults
+conda config --add channels nodefaults
 ```
 --
+Show channels
 ```shell
-jovyan@ostorozhno-zlaya-sobaka-0:~$ conda config --show channels
+conda config --show channels
 ```
 --
 Install the env with only pytorch in it

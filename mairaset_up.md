@@ -32,5 +32,6 @@ python3 -m ipykernel install --user --name Maira2 --display-name "Maira2"
 
 To install matplotlib
 ```shell
+conda install matplotlib
 ```
 
